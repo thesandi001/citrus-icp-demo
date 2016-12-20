@@ -22,8 +22,8 @@ $('#pay_now').on('click', function () {
 		mode: "dropIn",
 		customParameters: {
 			customParameter1: "demo text",
-			customParameter2: true,
-			customParameter3: 34
+			customParameter2: "true",
+			customParameter3: "34"
 		}
 	};
 
